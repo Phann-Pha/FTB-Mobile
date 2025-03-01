@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FTB Mobile</string>
+    <string name="welcome_to_ftb_mobile">Welcome to FTB Mobile App</string>
+    <string name="version_name">Version 1.0.0</string>
+
+    <string name="khmer_language">Khmer</string>
+    <string name="english_language">English</string>
+
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+
+    <string name="default_error_message_body">The request is failed, Please try again. Contact us 099 255 197/096 6039 147</string>
+
+    <string name="hello_pha">Hello, Pha!</string>
+    <string name="view_profile">View Profile</string>
+
+
+    <string name="account">Account</string>
+    <string name="transfer">Transfer</string>
+    <string name="cards">Cards</string>
+    <string name="payments">Payments</string>
+    <string name="loan">Loan</string>
+    <string name="scan_qr">Scan QR</string>
+
+    <string name="recently_transaction">Recently transactions</string>
+    <string name="new_and_promotions">News &amp; Promotions</string>
+</resources>

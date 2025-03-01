@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FTB Mobile</string>
+    <string name="welcome_to_ftb_mobile">សូមស្វាគមន៍ មកកាន់កម្មវិធី FTB</string>
+    <string name="version_name">កំណែ ១.០.០</string>
+
+    <string name="khmer_language">ភាសាខ្មែរ</string>
+    <string name="english_language">ភាសាអង់គ្លេស</string>
+
+    <string name="OK">យល់ព្រម</string>
+    <string name="Cancel">បោះបង់</string>
+
+    <string name="default_error_message_body">សំណើរនេះ មិនជោគជ័យទេ ។ សូមព្យាយាមម្តងទៀត ។ ទូរសព្ទ៖ 099 255 197/096 6039 147</string>
+
+    <string name="hello_pha">សួស្តី, ផា!</string>
+    <string name="view_profile">មើលប្រូហ្វាល</string>
+
+    <string name="account">គណនី</string>
+    <string name="transfer">ផ្ទេរប្រាក់</string>
+    <string name="cards">ប័ណ្ឌ</string>
+    <string name="payments">បង់ប្រាក់</string>
+    <string name="loan">ប្រាក់កម្ចី</string>
+    <string name="scan_qr">ទូទាត់តាម QR</string>
+
+    <string name="recently_transaction">ប្រតិបត្តិការថ្មីៗ</string>
+    <string name="new_and_promotions">ដំណឹង &amp; ប្រូម៉ូសិន</string>
+</resources>
